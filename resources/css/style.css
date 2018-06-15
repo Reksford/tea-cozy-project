@@ -1,0 +1,47 @@
+body {
+     margin: 0;
+     font-family: Helvetica, sans-serif;
+     font-size: 22px;
+     color: seashell;
+     background-color: black;
+     opacity: 0.9;
+     text-align: center;
+}
+
+  /* Header Section */
+
+header {
+  position: fixed;
+  display: flex;
+  align-items: center;
+  height: 69px;
+  width: 100%;
+  background-color: inherit;
+  border-bottom: 1px solid seashell;
+}
+
+header img {
+  height: 50px;
+  margin-left: 10px;
+}
+
+header nav {
+  display: flex;
+  margin: 0 10px 0 auto;
+  justify-content: space-between;
+}
+
+header a {
+  color: seashell;
+  padding: 0 10px;
+}
+
+/* Mission Section */
+
+/* Tea of the Month Section */
+
+/* Locations Section */
+
+/* Contact Section */
+
+/* Copyright */
