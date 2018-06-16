@@ -31,9 +31,13 @@ header nav {
   justify-content: space-between;
 }
 
+header li {
+  display: inline-block;
+  padding: 0 10px;
+}
+
 header a {
   color: seashell;
-  padding: 0 10px;
 }
 
 /* Mission Section */
