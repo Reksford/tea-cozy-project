@@ -1,3 +1,6 @@
+/*Notes on Project*/
+/*I tried to keep viewing on a mobile devise in mind while working on this project. Therefore in certain sections, specifically the Location Section, where I found that I could either get them to look exactly like the redline or get them to resize when adjusting the browser size I decided to prioratize flexability.*/
+
 body {
   margin: 0;
   font-family: Helvetica, sans-serif;
