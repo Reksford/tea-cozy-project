@@ -68,7 +68,7 @@ header a {
 
 .mission-text {
   background-color: black;
-  flex: 0 1 1200px;
+  flex: 0 1 100%;
 }
 
 /* Tea of the Month Section */
@@ -104,7 +104,7 @@ header a {
 }
 
 .location-text {
-  flex: 0 1 1200px;
+  flex: 0 1 100%;
 }
 
 .location-text h2 {
